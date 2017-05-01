@@ -1,5 +1,5 @@
 #!/usr/bin/groovy
-@Library('github.com/msrb/fabric8-pipeline-library@metaspace')
+@Library('github.com/msrb/fabric8-pipeline-library@no-bayesian')
 
 def localItestPattern = ""
 try {
